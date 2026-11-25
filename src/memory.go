@@ -1,6 +1,6 @@
 package main
 
-import "pos/include/domain"
+import "pos/include"
 
 type MemStudentRepo struct {
 	items []domain.Student

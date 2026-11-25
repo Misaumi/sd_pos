@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"pos/include/domain"
+	"pos/include"
 )
 
 type TotalRow struct {

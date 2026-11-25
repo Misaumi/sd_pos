@@ -1,6 +1,6 @@
 package main
 
-import "pos/include/domain"
+import "pos/include"
 
 // buildFacade - composition root, здесь (и только здесь) собираются зависимости
 func buildFacade() *Facade {
